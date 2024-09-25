@@ -1,22 +1,36 @@
 {
-	"movies": [
+	"work_experience": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Title": "Software Engineer 2",
+			"Company": "Microsoft Azure",
+			"Duration": "1.5 years",
+			"Responsibilities": "Architected and designed JWT OAuth backend authentication/authorization, and certificate management systems",
+			"Skills": "Microservices, OAuth, JWT"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Title": "Software Engineer",
+			"Company": "Microsoft Edge",
+			"Duration": "1.5 years",
+			"Responsibilities": "Coded feature discovery campaigns for Microsoft Edge, resulting in a 43.64% increase in user engagement",
+			"Skills": "Front-End Development, Multithreading, C++"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			
+			"Title": "Machine Learning Research Intern",
+			"Company": "Center for Cloud computing and Big Data, PES University",
+			"Duration": "1 year",
+			"Responsibilities": "Developed a low-cost wearable device for fetal health monitoring for women in rural areas.",
+			"Skills": "Machine Learning, Amazon Sagemaker, IoT"
+
+		},
+		{
+			
+			"Title": "Security Research Intern",
+			"Company": "Center for Information Security, Forensics and Cyber Resilience, PES University",
+			"Duration": "1 year",
+			"Responsibilities": "Published an IEEE Paper conducting Vulnerability Analysis of WhatsApp.",
+			"Skills": "STRIDE Threat Modelling, Android"
+
 		}
 	]
 }

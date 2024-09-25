@@ -1,0 +1,83 @@
+{
+	"work_experience": [
+	  {
+		"job_title": "Software Engineer II",
+		"company": "Microsoft Azure",
+		"location": "Remote",
+		"duration": "3 years",
+		"responsibilities": [
+		  "Founding engineer on a new zonal Azure Storage Key Rotation microservice, successfully managing 30,000 requests per minute with 99.9999% availability across 20M+ virtual machines.",
+		  "Architected and designed JWT OAuth backend authentication/authorization, and certificate management systems.",
+		  "Mentored an intern to productionize an authentication library widely used by all Azure Compute microservices.",
+		  "Designed integration, unit, and end-to-end test frameworks with 100% coverage.",
+		  "Implemented telemetry tracking and real-time monitoring systems utilizing distributed, multi-tiered systems.",
+		  "Collaborated with cross-functional teams to code feature discovery campaigns for Microsoft Edge, leading to a 43.64% increase in user engagement.",
+		  "Engaged in Extreme Programming (XP) to rapidly develop and deploy features in 2 week sprints, ensuring a focus on continuous testing and fast feedback loops.",
+		  "Finalist in accelerate91 Hackathon (2023) for developing a customizable Code Review Bot using LLMs (GPT davinci-003), earning Azure CVP"
+		],
+		"skills": [
+		  "Microservices",
+		  "OAuth",
+		  "JWT",
+		  "Azure",
+		  "Cloud Computing",
+		  "Distributed Systems",
+		  "Security"
+		]
+	  },
+	  {
+		"job_title": "Software Engineer",
+		"company": "Microsoft Edge",
+		"location": "Remote",
+		"duration": "3 years",
+		"responsibilities": [
+		  "Coded feature discovery campaigns for Microsoft Edge, resulting in a 43.64% increase in user engagement.",
+		  "Collaborated with Adobe to embed Adobe Acrobat's PDF engine into Edge's PDF reader.",
+		  "Developed Educational Tools for Edge, Reading Mode, and Clutter-Free Print.",
+		  "Embedded a machine learning model to remove ads and clutter before printing."
+		],
+		"skills": [
+		  "Front-End Development",
+		  "User Experience",
+		  "Machine Learning",
+		  "Cloud Computing",
+		  "Security",
+		  "PDF Engine"
+		]
+	  },
+	  {
+		"job_title": "Research Intern",
+		"company": "Center for Cloud computing and Big Data",
+		"location": "Remote",
+		"duration": "1 year",
+		"responsibilities": [
+		  "Developed a low-cost wearable device for fetal health monitoring.",
+		  "Generated synthetic datasets using GANs.",
+		  "Built a real-time monitoring system using Amazon SageMaker."
+		],
+		"skills": [
+		  "Machine Learning",
+		  "GANs",
+		  "Amazon SageMaker",
+		  "Data Science",
+		  "Wearable Devices"
+		]
+	  },
+	  {
+		"job_title": "Research Intern",
+		"company": "Center for Cloud computing and Big Data",
+		"location": "Remote",
+		"duration": "6 months",
+		"responsibilities": [
+		  "Worked on a Telugu LLM project.",
+		  "Compared statistical models to RNNLMs."
+		],
+		"skills": [
+		  "Language Models",
+		  "Natural Language Processing",
+		  "Machine Learning",
+		  "Telugu"
+		]
+	  }
+	]
+  }
